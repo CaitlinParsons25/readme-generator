@@ -1,27 +1,31 @@
 
-  # readme
+  # Readme Generator
+
+  ## Table of contents
+  - [project description](#Description)
+  - [installation](#Installation)
 
   ## Description
-  adlfkj
+  By using inquirer to ask questions to generate a ReadMe file
 
   ## Installation
-  asdlfkjs
+  Downloading code files and running in terminal
 
   ## Usage
-  asdlfkdsh
+  To create ReadMe files for your various coding projects
 
   ## Contribution guidelines
-  dslfkj
+  None
 
   ## Test instructions
-  asdlfkj
+  Running command node index.js in terminal
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## GitHub link
-  [!Profile](https://github.com/asdflkj)
+  [!Profile](https://github.com/CaitlinParsons25)
 
   ## Email
-  [!Email](mailto:aslfdkh)
+  [!Email](mailto:cait@cait.com)
 

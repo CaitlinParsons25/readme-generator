@@ -48,10 +48,10 @@ function generateMarkdown(data) {
   ${licenseDetails}
 
   ## GitHub link
-  [!Profile](https://github.com/${data.username})
+  [Profile](https://github.com/${data.username})
 
   ## Email
-  [!Email](mailto:${data.email})
+  [Email](mailto:${data.email})
 
 `;
 }
